@@ -1,0 +1,11 @@
+{
+  "name": "ResponseTimer",
+  "version": "1.0.0",
+  "description": "ASP.NET Middleware that track request response timing",    
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bmancini55/ASPNET-ResponseTimer.git"
+  },
+  "author": "Brian Mancini <bmancini@gmail.com>",
+  "license": "MIT"  
+}
